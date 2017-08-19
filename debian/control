@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: ProFont6x11.h
-Description: 
+Description: ProFont6x11 for DisplayCore
