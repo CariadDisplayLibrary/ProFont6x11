@@ -1,2 +1,4 @@
-ProFont6x11.cpp libraries/DisplayCore/ProFont6x11
-ProFont6x11.h libraries/DisplayCore/ProFont6x11
+library.json libraries/DisplayCore/ProFont6x11
+library.properties libraries/DisplayCore/ProFont6x11
+README.md libraries/DisplayCore/ProFont6x11
+src libraries/DisplayCore/ProFont6x11
