@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::ProFont6x11 
 
-![ProFont6x11](https://raw.githubusercontent.com/DisplayCore/ProFont6x11/master/Preview/ProFont6x11.png)
+![ProFont6x11](https://raw.githubusercontent.com/Cariad/ProFont6x11/master/Preview/ProFont6x11.png)
 

@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-profont6x11
+Source: libcariad-font-profont6x11
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-profont6x11
+Package: libcariad-font-profont6x11
+Replaces: libdisplaycore-font-profont6x11
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: ProFont6x11.h
 Description: ProFont6x11
